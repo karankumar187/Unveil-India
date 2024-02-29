@@ -1,1 +1,3 @@
 # Unveil-India
+
+India’s tourism industry is very vast and unstructured. People love to visit India to see its culture and beauty. So we are designing a website where people can easily trip their India tour plan. They can book their hotel tickets, flight tickets, and train tickets and they can also book guides online at our website. We are covering every known and wonderful tourist spot in India. We will not just provide a destination to one place but also provide tour packages that will provide tours of many states of India in one pack. People don’t have to take the tension of booking hotels and tickets for different places they have to pay at once and we will take care of the rest of the tour.
