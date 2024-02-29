@@ -133,12 +133,14 @@ body{
 }
 
 .heading2 {
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   color: #15616d;
   margin-top: 120px;
   margin-left: 200px;
   width: 50%;
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 
 .box3 {
@@ -166,6 +168,20 @@ body{
 
 .box6 {
   background-image: url(box3.webp);
+  background-size: cover;
+  width: 330px;
+  height: 248px;
+}
+
+.box7 {
+  background-image: url(box4.jpeg);
+  background-size: cover;
+  width: 330px;
+  height: 248px;
+}
+
+.box8 {
+  background-image: url(box5.cms);
   background-size: cover;
   width: 330px;
   height: 248px;
@@ -200,7 +216,7 @@ body{
 }
 
 .flexbox1 {
-  margin-top: 30px;
+  margin-top: 50px;
   margin-left: 100px;
   display: flex;
   justify-content: space-evenly;
@@ -226,3 +242,186 @@ body{
   border-radius: 20px;
 }
 
+.p2 {
+  margin-top: 40px;
+  height: 30px;
+  align-items: center;
+  text-align: center;
+  font-size: large;
+
+}
+
+.item{
+  display: flex;
+  background-color: #edf2f4;
+  margin-left: 120px;
+  margin-top: 50px;
+  margin-right: 120px;
+}
+
+.item1{
+  background-image: url(item1.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.d{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.d ul a{
+  text-decoration: none;
+  font-size: 1.3rem;
+  color: black;
+  font-weight: 500;
+  margin-bottom: 10px;
+
+}
+
+.d ul p{
+  margin-top: 5px;
+}
+
+.pp{
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.item99 {
+  display: flex;
+  background-color: #edf2f4;
+  margin-left: 120px;
+  margin-top: 10px;
+  margin-right: 120px;
+}
+
+.item2{
+  background-image: url(item2.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item3{
+  background-image: url(item3.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item4{
+  background-image: url(item4.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item5{
+  background-image: url(item5.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item6{
+  background-image: url(item6.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item7{
+  background-image: url(item7.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item8{
+  background-image: url(item8.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.item9{
+  background-image: url(item9.webp);
+  background-size: cover;
+  width: 180px;
+  height: 220px;
+  margin: 10px;
+
+}
+
+.tdmain{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-right: 70px;
+  margin-left: 70px;
+}
+
+.tdmain a{
+  text-decoration: none;
+  color: black;
+}
+
+.td1{
+  background-image: url(td1.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
+
+.td2{
+  background-image: url(td2.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
+
+.td3{
+  background-image: url(td3.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
+
+.td4{
+  background-image: url(td4.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
+
+.td5{
+  background-image: url(td5.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
+
+.td6{
+  background-image: url(td6.webp);
+  height: 190px;
+  width: 150px;
+  background-size: cover;
+}
