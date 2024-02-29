@@ -171,24 +171,58 @@ body{
   height: 248px;
 }
 
-.box7 {
-  background-image: url(box4.jpeg);
-  background-size: cover;
-  width: 330px;
-  height: 248px;
-}
-
-.box8 {
-  background-image: url(box5.cms);
-  background-size: cover;
-  width: 330px;
-  height: 248px;
-}
-
 .box9 {
   background-image: url(box6.webp);
   background-size: cover;
   width: 330px;
   height: 248px;
+}
+
+.box10 {
+  background-image: url(box7.avif);
+  background-size: cover;
+  width: 330px;
+  height: 248px;
+}
+
+.box11 {
+  background-image: url(box8.webp);
+  background-size: cover;
+  width: 330px;
+  height: 248px;
+}
+
+.box12 {
+  background-image: url(box9.webp);
+  background-size: cover;
+  width: 330px;
+  height: 248px;
+}
+
+.flexbox1 {
+  margin-top: 30px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+
+.title{
+  height: 32px;
+  width: 110px;
+  text-align: center;
+  border: 2px solid #15616d;
+  border-radius: 20px;
+}
+
+.flexbox1 a{
+  text-decoration: none;
+  color: black;
+}
+
+.flexbox1 a:hover{
+  background-color: #15616d;
+  color: white;
+  border-radius: 20px;
 }
 
